@@ -1,0 +1,10 @@
+{
+  "name": "skeleton",
+  "health": {
+    "current": 5,
+    "max": 5
+  },
+  "attack": {
+    "power": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "goblin",
+  "health": {
+    "current": 10,
+    "max": 10
+  },
+  "attack": {
+    "power": 2
+  }
+}
